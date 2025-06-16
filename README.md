@@ -37,7 +37,7 @@ Passwords are the first line of defense in cybersecurity. This tool helps users 
 
 Save this file as:
 
-Check_password_strength.py
+`Check_password_strength.py`
 
 
 ### 3. Run the Program
