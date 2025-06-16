@@ -44,5 +44,9 @@ Save this file as:
 
 Open terminal or command prompt and execute:
 
-```bash
-python Check_password_strength.py
+<pre>bash
+python Check_password_strength.py</pre>
+
+## 👨‍💻 Author
+### Manik Chand Singh
+Cybersecurity enthusiast | Python beginner | Ethical hacker-in-training
